@@ -1,7 +1,7 @@
 # Gabriel Henrique Moreira
 
 ## Seja bem-vindo(a)!
-#### Prazer! Meu nome é Gabriel, tenho 17 anos (nascido em 2005), moro em Jaú/SP e sou técnico em Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral. Abaixo, você pode conferir mais sobre minhas habilidades e entrar em contato caso queira.
+#### Prazer! Meu nome é Gabriel, tenho 18 anos, moro em Jaú/SP, sou técnico em Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral e estou cursando Ciência da Computação na UNISAGRADO. Abaixo, você pode conferir mais sobre minhas habilidades e entrar em contato caso queira.
 ### 📷 Redes Sociais & Contato
 <a href="https://github.com/GMoreira05"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/gmoreira05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
